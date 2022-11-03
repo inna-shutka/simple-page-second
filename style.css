@@ -113,6 +113,7 @@ body {
     font-feature-settings: 'liga' off;
     color: #FFFFFF;
     background-color: #000000;
+    border: none;
     border-radius: 8px;
     padding: 16px 24px;
     gap: 8px;
@@ -140,6 +141,7 @@ body {
     text-align: center;
     font-feature-settings: 'liga' off;
     color: #000000;
+    border: none;
     border-radius: 8px;
     padding: 16px 24px;
     gap: 8px;
